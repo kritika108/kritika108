@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kritika108
+- 👋 Hi, I’m Kritika
   
 - 🌱 I’m currently a Student at National institute of technology patna...
 
