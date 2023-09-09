@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Kritika
   
-- 🌱 I’m currently a Student at National institute of technology patna...
+- 🌱 I’m currently a Student at National institute of technology, Patna.
+- Pursing Mechanical Engineering.
+- I'm interested in Web Developing,Mechanical field,Data Analyst.
 
 
 <!---
