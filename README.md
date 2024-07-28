@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kritika
   
 - 🌱 I’m currently pursuing B.tech in mechanical engineering at National Institute of Technology Patna.
-- I'm interested in Web Developing,Mechanical field,Data Analyst.
+- I'm interested in Web Developer & Data Analyst.
 - Here is my Coding Profile
 - LeetCode:- https://leetcode.com/u/kirt_ikritika/
 - gfg:- https://www.geeksforgeeks.org/user/kritika108/
